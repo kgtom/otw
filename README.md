@@ -8,7 +8,8 @@
 * 4.内部rpc 通信，对外restful api(Gin)
 * 5.api-gateway 使用Gin路由
 * 6.make && Makefile 编译代码及构建docker image
-* 7.todo
+* 7.常规业务postgresql及 偏写入MongoDB使用
+* 8.
 ### 项目架构
 ~~~
 api-gateway/
